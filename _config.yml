@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
-title: Patrick Brendel
-description: Journalist in the Cayman Islands
+title: Cayman Current
+description: Uniting Cayman around education
 plugins: 
   - jekyll-seo-tag
   - jekyll-sitemap
 # Google Analytics
-google_analytics: UA-146011381-1
+google_analytics: UA-146011381-3
