@@ -2,7 +2,7 @@
 
 ### Find me online
 
-[Patrick Brendel homepage](https://pbrendel.com)
+[Patrick Brendel homepage](http://pbrendel.com)
 
 **patrick@pbrendel.com**
 
